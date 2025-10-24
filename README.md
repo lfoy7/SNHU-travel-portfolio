@@ -1,6 +1,11 @@
 # SNHU-travel-portfolio
 ## Portfolio Reflection: SNHU Travel Project
 
+This repository contains my Sprint Review and Retrospective for the SNHU Travel project, completed as part of my Agile and Scrum coursework at SNHU.  
+It also includes my reflections on key Computer Science program questions.
+
+Instructor GitHub Username: [NickSchnackSNHU]
+
 **How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**  
 User stories help translate client needs into actionable development goals. By focusing on what the user wants to achieve (e.g., “Book a Trip”), we were able to break down complex requirements into manageable tasks. This kept the team aligned with customer value and allowed for iterative improvements based on feedback.
 
